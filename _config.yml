@@ -20,7 +20,7 @@ title                    : "솔이의 스터디룸"
 title_separator          : "-"
 subtitle                 : "코알못의 고군분투 AI & Python 공부"
 name                     : "Hansol Jang"
-description              : "An amazing website."
+description              : "경영학부 출신 비전공자의 AI 도전ing"
 url                      : "https://sol-2.github.io"
 baseurl                  : # 써두면 해당 카테고리로 이동 e.g. "/blog" 
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -85,10 +85,10 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : "google" # "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          :
-    anonymize_ip         : # true, false (default)
+    tracking_id          : "UA-173984009-1"
+    anonymize_ip         : false # true, false (default)
 
 
 # Site Author
