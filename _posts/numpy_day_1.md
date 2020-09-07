@@ -1,4 +1,6 @@
-## Numpy 정리 day.1 ##
+title: "NumPy 정리 day.1"
+date: 2020-09-7 23:46:00 +0900
+categories: Development
 
 ---
 
@@ -11,7 +13,7 @@ $ pip install numpy (일반)
 $ conda install numpy (아나콘다 사용 시)
 ```
 
-모듈 설치를 마치고 주피터 노트북에서 새 노트북을 생성한다.
+모듈 설치를 마치고 주피터 노트북에서 새 노트북을 생성한다 😃
 
 ![numpy_day1_1_jupyter](markdown-images/numpy_day1_1_jupyter.jpg)
 
